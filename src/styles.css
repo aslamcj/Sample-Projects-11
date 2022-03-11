@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+#container {
+  border: 2px solid blue;
+  clear: both;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  float: left;
+  border: 1px dotted red;
+}
+
+.f-item-1 {
+  background-color: pink;
+  width: 50%;
+  height: 300px;
+}
+.f-item-2 {
+  background-color: lightgreen;
+  width: 30%;
+  height: 200px;
+}
